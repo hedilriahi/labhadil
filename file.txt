@@ -1,3 +1,7 @@
 Feature 1 modification
 Feature 2 modification
+HEAD
 Feature 1 modification
+
+Feature 2 modification
+ feature2
